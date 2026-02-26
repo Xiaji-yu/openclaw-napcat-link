@@ -59,9 +59,9 @@ openclaw onboard --install-daemon # 运行新手引导
 
 以下为 Linux 环境下快速安装的详细步骤过程：
 
-## 1. 首先运行 `curl -fsSL https://openclaw.ai/install.sh | bash` 进行快速安装并开启新手引导](./images/快速
+## 1. 首先运行 `curl -fsSL https://openclaw.ai/install.sh | bash` 进行快速安装并开启新手引导
 
-![快速安装安装.png]
+![快速安装.png](./images/快速安装.png)
 
 这一步会等待比较久，具体时间取决于你的网速和处理器解压速度
 
